@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello world! 👨‍💻
 
-<!--
-**Everton2142/Everton2142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Everton Lira** e sou graduado no curso de **Análise e Desenvolvimento de Sistemas** pela faculdade SENAC - Recife. Atualmente sigo na jornada de estudos de maneira independente para me tornar um desenvolvedor.
 
-Here are some ideas to get you started:
+Sou apaixonado pela parte do back-end, com maior destaque à linguagem C# e ao ecossistema .NET, mas amo igualmente estudar sobre as outras divisões do mundo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este é meu GitHub secundário, onde pretendo utilizá-lo para fazer testes sobre a usabilidade da própria plataforma. Sinta-se à vontade para entrar em contato aqui ou na minha conta principal, que estará na parte de **contatos**.
+
+## Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+## Frameworks
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white") 
+
+
+
+## Ferramentas
+
+![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+
+
+## Contatos
+
+ [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-lira-8096a320b/)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:evertonhenrique87@gmail.com)[![Likedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Everton1942)
+
+
+
+## Status
+
+[![Meus status](https://awesome-github-stats.azurewebsites.net/user-stats/everton2142?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card) ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=everton2142&layout=compact&langs_count=7&theme=github_dark)
